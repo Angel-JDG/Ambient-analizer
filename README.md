@@ -7,11 +7,13 @@ The ambient analyser system uses sensors, an Arduino controller, Python scripts 
 - MQ-7 (CO hydrogen Monoxide).
 **Microcontroller**
 - Arduino UNO R3.
+  
 **Softwares**
 - VSCode.
 - Arduino IDE.
 - MySQL Workbench.
 - MySQL Server.
+
 **Programming lenguages**
-- Python
-- C++ (Arduino IDE coding)
+- Python.
+- C++ (Arduino IDE coding.
