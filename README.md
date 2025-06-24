@@ -17,4 +17,12 @@ The ambient analyser system uses sensors, an Arduino controller, Python scripts 
 
 **Programming lenguages**
 - Python.
-- C++ (Arduino IDE coding.
+- C++ (Arduino IDE coding)
+
+The SQL  database only work withe the personal database configurations, with ur own database.
+database tables structure:
+primary key: star in number 1
+first column: date
+second column: humidity
+thirt column: temperature
+fourth column: carbon monoxide (gas ppms)
