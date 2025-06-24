@@ -4,7 +4,7 @@ The ambient analyser system uses sensors, an Arduino controller, Python scripts 
 
 **Sensors:**
 - DHT22 (temperature and humidity).
-- MQ-7 (CO hydrogen Monoxide).
+- MQ-7 (CO carbon Monoxide).
   
 **Microcontroller**
 - Arduino UNO R3.
